@@ -21,7 +21,7 @@ A console-based library management system where librarians can manage books and 
 - `Librarian.cs` & `LibraryUser.cs` – Manage librarian and user functionalities.
 
 ### 📌 Additional Resources
-- **User Stories:** [`Library-Management-System/User-Story.pdf`](Library-Management-System/User-Story.pdf) – Describes system requirements from a user's perspective.
+- **User Stories:** [`LibraryManagementSystem/User-Story.pdf`](LibraryManagementSystem/User-Story.pdf) – Describes system requirements from a user's perspective.
 
 > **Note:** The UML diagram for this project was not created by me and is not included.
 
